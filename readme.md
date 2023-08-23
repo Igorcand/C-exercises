@@ -10,3 +10,7 @@ RODAR O ARQUIVO:
 ./nome_de_saida
 
 gcc *.c -o nome_de_saida
+
+
+
+https://www.youtube.com/@ProfessorRafaelIvo/videos
